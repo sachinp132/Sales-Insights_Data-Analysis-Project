@@ -1,6 +1,6 @@
 # Sales-Insights_Data-Analysis-Project
 
-##Data Analysis Using SQL
+Data Analysis Using SQL
 
 
 Show all customer records
